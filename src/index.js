@@ -19,10 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("menu-btn").addEventListener("click", (e) => {
     e.preventDefault();
     content.innerHTML = "";
-<<<<<<< HEAD
-    loadMenu()
-=======
     loadMenu();
->>>>>>> 1e5ed28780369d3f0bee55362e6c3624d5f7ecd5
+    loadMenu();
   });
 });
