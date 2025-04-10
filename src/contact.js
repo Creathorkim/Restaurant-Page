@@ -1,5 +1,4 @@
 export default function loadContact() {
-<<<<<<< HEAD
   const content = document.getElementById("content");
   content.innerHTML = `
       <div class="container shadow-sm rounded bg-dark mx-auto p-4 mt-5">
@@ -39,7 +38,6 @@ export default function loadContact() {
     </div>
   `;
 }
-=======
     const content = document.getElementById("content");
     content.innerHTML = `
         <div class="container shadow-sm rounded bg-dark mx-auto p-4 mt-5">
@@ -78,6 +76,3 @@ export default function loadContact() {
         </div>
       </div>
     `;
-  }
-  
->>>>>>> 1e5ed28780369d3f0bee55362e6c3624d5f7ecd5

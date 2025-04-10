@@ -1,5 +1,5 @@
 export default function loadHome() {
-<<<<<<< HEAD
+
   const content = document.getElementById("content");
   content.innerHTML = `
     <div class="container shadow-sm bg-dark rounded mx-auto my-5 p-4">
@@ -39,7 +39,7 @@ export default function loadHome() {
     </div>
   `;
 }
-=======
+
     const content = document.getElementById("content");
     content.innerHTML = `
       <div class="container shadow-sm bg-dark rounded mx-auto my-5 p-4">
@@ -78,6 +78,5 @@ export default function loadHome() {
         </div>
       </div>
     `;
-  }
   
->>>>>>> 1e5ed28780369d3f0bee55362e6c3624d5f7ecd5
+  
