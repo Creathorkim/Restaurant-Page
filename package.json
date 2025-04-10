@@ -1,7 +1,30 @@
 {
+<<<<<<< HEAD
   "devDependencies": {
     "css-loader": "^7.1.2",
     "file-loader": "^6.2.0",
+=======
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "A modular restaurant website that dynamically loads Home, Menu, and Contact sections using vanilla JavaScript, HTML, and Bootstrap. Built with webpack for efficient bundling and development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Creathorkim/Restaurant-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Creathorkim/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/Creathorkim/Restaurant-Page#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+>>>>>>> 1e5ed28780369d3f0bee55362e6c3624d5f7ecd5
     "html-webpack-plugin": "^5.6.3",
     "style-loader": "^4.0.0",
     "webpack": "^5.98.0",
@@ -10,6 +33,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.3"
+<<<<<<< HEAD
   },
   "name": "restaurant-webpack-project",
   "version": "1.0.0",
@@ -21,4 +45,7 @@
   "author": "",
   "license": "ISC",
   "description": ""
+=======
+  }
+>>>>>>> 1e5ed28780369d3f0bee55362e6c3624d5f7ecd5
 }
